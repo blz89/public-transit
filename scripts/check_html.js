@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * travel-planner HTML 出品校验（流程一、流程二通用）
+ * travel HTML 出品校验（流程一、流程二通用）
  *
  * 用法: node scripts/check_html.js <out.html>
  *

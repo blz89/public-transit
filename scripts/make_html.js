@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * travel-planner 行程文档生成器（HTML 唯一出口，禁止手写生成脚本）
+ * travel 行程文档生成器（HTML 唯一出口，禁止手写生成脚本）
  *
  * 用法:
  *   node scripts/make_html.js plan  <data.json> <out.html>   # 流程一：交通方案
