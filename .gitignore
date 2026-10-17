@@ -1,0 +1,10 @@
+# 运行时缓存（首次运行自动下载，不入库）
+.flight_cache/
+.stations_cache.json
+.neg_cache.json
+.make_html_runs.json
+
+# 运行产物
+*.pdf
+Thumbs.db
+.DS_Store
